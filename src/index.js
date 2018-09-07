@@ -1,1 +1,5 @@
-// components exported here will be available in your libary bundle
+import withName from './withName';
+
+export {
+  withName
+};

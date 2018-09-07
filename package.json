@@ -1,13 +1,17 @@
 {
-  "name": "react-library-starter",
+  "name": "react-redux-debug",
   "version": "0.0.1",
-  "description": "A react library starter project",
+  "description": "Components for debugging",
   "main": "dist/index.js",
   "license": "APACHE",
   "scripts": {
     "lint": "eslint src",
     "build": "webpack",
     "prepare": "rimraf dist && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pdyxs/react-redux-debug.git"
   },
   "dependencies": {
     "babel-core": "^6.0.20",
