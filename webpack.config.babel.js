@@ -8,7 +8,7 @@ export default {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'index.js',
-    library: 'react-redux-debug',
+    library: 'reramble',
     libraryTarget: 'umd',
     umdNamedDefine: true,
   },
