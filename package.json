@@ -1,6 +1,6 @@
 {
   "name": "reramble",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Components for debugging",
   "main": "dist/index.js",
   "license": "APACHE",
